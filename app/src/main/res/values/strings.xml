@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleKeyboard</string>
+    <string name="sample_ime">Sample IME</string>
+    <string name="subtype_en_US">English (US)</string>
+</resources>
